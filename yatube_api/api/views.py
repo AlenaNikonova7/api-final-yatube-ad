@@ -1,8 +1,9 @@
 from rest_framework import viewsets, mixins, filters
-from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
+from rest_framework.permissions import IsAuthenticated
 from django.shortcuts import get_object_or_404
 
-from posts.models import Post, Comment, Follow, Group
+from posts.models import Post, Follow, Group
 from .serializers import PostSerializer, CommentSerializer, FollowSerializer, GroupSerializer
 from .permissions import IsAuthorOrReadOnly
 

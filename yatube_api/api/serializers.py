@@ -7,10 +7,12 @@ from posts.models import Comment, Post, Follow, Group
 
 User = get_user_model()
 
+
 class GroupSerializer(serializers.ModelSerializer):
     class Meta:
         fields = ('id', 'title', 'slug', 'description')
         model = Group
+
 
 class PostSerializer(serializers.ModelSerializer):
     author = SlugRelatedField(slug_field='username', read_only=True)
