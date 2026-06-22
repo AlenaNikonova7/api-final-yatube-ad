@@ -58,7 +58,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/create/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/create/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -66,7 +66,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -127,7 +127,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/create/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/create/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -135,7 +135,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -196,7 +196,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/refresh/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/refresh/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -204,7 +204,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -275,7 +275,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/refresh/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/refresh/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -283,7 +283,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -326,7 +326,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/verify/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/verify/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -334,7 +334,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -402,7 +402,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/jwt/verify/",
+							"raw": "http://127.0.0.1:8080/api/v1/jwt/verify/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -410,7 +410,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -495,7 +495,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/groups/",
+							"raw": "http://127.0.0.1:8080/api/v1/groups/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -503,7 +503,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -561,7 +561,7 @@
 							}
 						],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/groups/{{group_id}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/groups/{{group_id}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -569,7 +569,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -675,7 +675,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -683,7 +683,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -759,7 +759,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -767,7 +767,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -824,7 +824,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -832,7 +832,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -898,7 +898,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/?limit=1&offset=1",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/?limit=1&offset=1",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -906,7 +906,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -971,7 +971,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_without_group}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_without_group}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -979,7 +979,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1055,7 +1055,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_without_group}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_without_group}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1063,7 +1063,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1140,7 +1140,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_without_group}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_without_group}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1148,7 +1148,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1183,7 +1183,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_without_group}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_without_group}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1191,7 +1191,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1302,7 +1302,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1310,7 +1310,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1368,7 +1368,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1376,7 +1376,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1441,7 +1441,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1449,7 +1449,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1522,7 +1522,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1530,7 +1530,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1603,7 +1603,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1611,7 +1611,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1647,7 +1647,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1655,7 +1655,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1728,7 +1728,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1736,7 +1736,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1850,7 +1850,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/follow/",
+							"raw": "http://127.0.0.1:8080/api/v1/follow/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1858,7 +1858,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1918,7 +1918,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/follow/",
+							"raw": "http://127.0.0.1:8080/api/v1/follow/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -1926,7 +1926,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -1998,7 +1998,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/follow/?search={{adminUsername}}",
+							"raw": "http://127.0.0.1:8080/api/v1/follow/?search={{adminUsername}}",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -2006,7 +2006,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -2085,7 +2085,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/groups/{{group_id}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/groups/{{group_id}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2093,7 +2093,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2136,7 +2136,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/groups/{{group_id}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/groups/{{group_id}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2144,7 +2144,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2187,7 +2187,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/groups/{{group_id}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/groups/{{group_id}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2195,7 +2195,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2229,7 +2229,7 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/groups/{{group_id}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/groups/{{group_id}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2237,7 +2237,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2305,7 +2305,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2313,7 +2313,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2356,7 +2356,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2364,7 +2364,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2398,7 +2398,7 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2406,7 +2406,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2455,7 +2455,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2463,7 +2463,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2506,7 +2506,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2514,7 +2514,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2557,7 +2557,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2565,7 +2565,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2609,7 +2609,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2617,7 +2617,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2661,7 +2661,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2669,7 +2669,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2714,7 +2714,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2722,7 +2722,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2802,7 +2802,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2810,7 +2810,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2855,7 +2855,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2863,7 +2863,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2899,7 +2899,7 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -2907,7 +2907,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -2961,7 +2961,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -2969,7 +2969,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3012,7 +3012,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3020,7 +3020,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3064,7 +3064,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3072,7 +3072,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3107,7 +3107,7 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3115,7 +3115,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3164,7 +3164,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3172,7 +3172,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3217,7 +3217,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3225,7 +3225,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3271,7 +3271,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3279,7 +3279,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3316,7 +3316,7 @@
 										"method": "DELETE",
 										"header": [],
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
+											"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/comments/{{comment_id_for_permission_tests}}/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3324,7 +3324,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3369,7 +3369,7 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/follow/",
+											"raw": "http://127.0.0.1:8080/api/v1/follow/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3377,7 +3377,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3423,7 +3423,7 @@
 											}
 										},
 										"url": {
-											"raw": "http://127.0.0.1:8000/api/v1/follow/",
+											"raw": "http://127.0.0.1:8080/api/v1/follow/",
 											"protocol": "http",
 											"host": [
 												"127",
@@ -3431,7 +3431,7 @@
 												"0",
 												"1"
 											],
-											"port": "8000",
+											"port": "8080",
 											"path": [
 												"api",
 												"v1",
@@ -3517,7 +3517,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/groups/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/groups/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3525,7 +3525,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3559,7 +3559,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3567,7 +3567,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3610,7 +3610,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3618,7 +3618,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3652,7 +3652,7 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3660,7 +3660,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3694,7 +3694,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/comments/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/comments/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3702,7 +3702,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3747,7 +3747,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/comments/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/comments/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3755,7 +3755,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3791,7 +3791,7 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/comments/99999/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/comments/99999/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3799,7 +3799,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3835,7 +3835,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/99999/comments/{{comment_id_for_permission_tests}}/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/99999/comments/{{comment_id_for_permission_tests}}/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3843,7 +3843,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3919,7 +3919,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -3927,7 +3927,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -3992,7 +3992,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/posts/{{negative_test_post}}/comments/",
+									"raw": "http://127.0.0.1:8080/api/v1/posts/{{negative_test_post}}/comments/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -4000,7 +4000,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -4049,7 +4049,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/follow/",
+									"raw": "http://127.0.0.1:8080/api/v1/follow/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -4057,7 +4057,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -4099,7 +4099,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/follow/",
+									"raw": "http://127.0.0.1:8080/api/v1/follow/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -4107,7 +4107,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -4140,7 +4140,7 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/follow/1/",
+									"raw": "http://127.0.0.1:8080/api/v1/follow/1/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -4148,7 +4148,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -4191,7 +4191,7 @@
 									}
 								},
 								"url": {
-									"raw": "http://127.0.0.1:8000/api/v1/follow/",
+									"raw": "http://127.0.0.1:8080/api/v1/follow/",
 									"protocol": "http",
 									"host": [
 										"127",
@@ -4199,7 +4199,7 @@
 										"0",
 										"1"
 									],
-									"port": "8000",
+									"port": "8080",
 									"path": [
 										"api",
 										"v1",
@@ -4308,7 +4308,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/follow/",
+							"raw": "http://127.0.0.1:8080/api/v1/follow/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -4316,7 +4316,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -4394,7 +4394,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{post_with_group}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{post_with_group}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -4402,7 +4402,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
@@ -4446,7 +4446,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://127.0.0.1:8000/api/v1/posts/{{negative_test_post}}/",
+							"raw": "http://127.0.0.1:8080/api/v1/posts/{{negative_test_post}}/",
 							"protocol": "http",
 							"host": [
 								"127",
@@ -4454,7 +4454,7 @@
 								"0",
 								"1"
 							],
-							"port": "8000",
+							"port": "8080",
 							"path": [
 								"api",
 								"v1",
